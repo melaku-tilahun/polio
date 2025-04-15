@@ -440,6 +440,6 @@ with st.container():
 
 # Footer
 st.markdown(
-    "<div class='footer'>Powered by National Polio Awareness Initiative | <a href='https://polioeradication.org/' target='_blank' class='resource-link'>Global Polio Eradication</a></div>",
+    "<div class='footer'>Powered by Ethiopia  Polio Awareness Initiative | <a href='https://polioeradication.org/' target='_blank' class='resource-link'>Global Polio Eradication</a></div>",
     unsafe_allow_html=True
 )
