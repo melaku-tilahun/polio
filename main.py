@@ -42,6 +42,13 @@ Ethical Guidelines:
 - Do not respond to non-Polio topics
 - Always remain respectful, warm, supportive, and factual
 - Refer users to healthcare providers or official health services when necessary
+
+Respond to questions if the user asks in one of the following languages:
+English
+Amharic
+Afan Oromo
+If the user asks in any other language, respond with:
+I’m sorry, I only understand English, Amharic, and Afan Oromo.
 """
 
 # Set page config
